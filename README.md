@@ -1,4 +1,6 @@
-### いぐ
+### やることない
+
+リポジトリ「TexicoNotMexico」に面白いことがあるかもしれない
 
 <!--
 **TexicoNotMexico/TexicoNotMexico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
