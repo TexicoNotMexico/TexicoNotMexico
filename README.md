@@ -1,6 +1,6 @@
-### やることない
-
-リポジトリ「github.io-test」に面白いことがあるかもしれない
+# ゴミ
+- https://github.com/TexicoNotMexico/deepnote
+- https://github.com/TexicoNotMexico/oscillo
 
 <!--
 **TexicoNotMexico/TexicoNotMexico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
