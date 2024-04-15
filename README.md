@@ -2,7 +2,7 @@
 - https://github.com/TexicoNotMexico/deepnote
 - https://github.com/TexicoNotMexico/oscillo
 - https://github.com/TexicoNotMexico/ctc
-- https://github.com/TexicoNotMexico/tone-oscillo
+- https://github.com/TexicoNotMexico/tone-oscilloscope
 
 <!--
 **TexicoNotMexico/TexicoNotMexico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
