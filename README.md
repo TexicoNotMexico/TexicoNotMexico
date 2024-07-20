@@ -1,9 +1,11 @@
 # ゴミ
-- https://github.com/TexicoNotMexico/deepnote
-- https://github.com/TexicoNotMexico/oscillo
-- https://github.com/TexicoNotMexico/ctc
-- https://github.com/TexicoNotMexico/tone-oscilloscope
+
+- https://github.com/TexicoNotMexico/my-yt-subtitles
 - https://github.com/TexicoNotMexico/kawase
+- https://github.com/TexicoNotMexico/tone-oscilloscope
+- https://github.com/TexicoNotMexico/ctc
+- https://github.com/TexicoNotMexico/oscillo
+- https://github.com/TexicoNotMexico/deepnote
 
 <!--
 **TexicoNotMexico/TexicoNotMexico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
