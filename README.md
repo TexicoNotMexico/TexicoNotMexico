@@ -1,5 +1,6 @@
 # ゴミ
 
+- https://github.com/TexicoNotMexico/p5sbankeyboard
 - https://github.com/TexicoNotMexico/p5i
 - https://github.com/TexicoNotMexico/my-yt-subtitles
 - https://github.com/TexicoNotMexico/kawase
